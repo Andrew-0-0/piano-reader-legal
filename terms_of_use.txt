@@ -1,0 +1,53 @@
+
+Terms of Use for Piano Reader
+
+Effective Date: August 1, 2026
+Last Updated: August 1, 2026
+
+Please read these Terms of Use ("Terms") carefully before using the Piano Reader mobile application (the "App"), operated by us ("we," "our," or "us"). By downloading, accessing, or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the App.
+
+1. Use of the App
+The Piano Reader app is designed to assist users in reading, viewing, and practicing sheet music. It is provided for personal, non-commercial use on iOS devices.
+You agree to use the App only in compliance with all applicable local, state, national, and international laws and regulations.
+Restrictions
+You explicitly agree not to:
+* Use the App for any illegal, unauthorized, or harmful purpose.
+* Decompile, reverse engineer, disassemble, or attempt to derive the source code of the App.
+* Copy, modify, redistribute, rent, lease, or resell the App or its code.
+* Interfere with or disrupt the integrity, performance, or security of the App.
+
+2. Music Sheets, Content, and Copyright
+Provided Content
+Any built-in sheet music, public domain arrangements, or default library items provided within the App are for your personal practice and reference. While we strive for accuracy, we do not guarantee that sheet music or digital transcriptions are error-free.
+User Content & Uploads
+If the App allows you to import, upload, or store your own music sheets, PDFs, or audio files:
+* Ownership: You retain ownership of any content you import into the App.
+* Responsibility: You are solely responsible for ensuring that you have the legal right or license to import, store, and view any sheet music or files within the App.
+* Copyright Compliance: You agree not to use the App to infringe upon any third-party copyrights or intellectual property rights.
+
+3. Intellectual Property Rights
+All visual interfaces, software code, logos, branding, graphics, design, and original content associated with the App (excluding user-imported content) are the exclusive property of Piano Reader and its licensors. They are protected by copyright, trademark, and other intellectual property laws.
+
+4. Disclaimer of Warranties
+The App is provided on an "AS IS" and "AS AVAILABLE" basis, without warranties of any kind, either express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
+We do not warrant that:
+* The App will function uninterrupted, secure, or available at any particular time or location.
+* Any errors or defects will be corrected.
+* The App is free of viruses or other harmful components.
+
+5. Limitation of Liability
+To the fullest extent permitted by applicable law, in no event shall we be liable for any indirect, incidental, special, consequential, or punitive damages—including without limitation, loss of data, device malfunction, or business interruption—arising out of or in connection with your access to or use of (or inability to access or use) the App.
+
+6. Termination
+We reserve the right to suspend or terminate your access to the App immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach these Terms.
+
+7. Changes to These Terms
+We reserve the right to modify or replace these Terms at any time. If a revision is material, we will update the "Last Updated" date at the top of this document. Your continued use of the App after any changes become effective constitutes your acceptance of the revised Terms.
+
+8. Governing Law
+These Terms shall be governed and construed in accordance with the laws of your jurisdiction of residence, without regard to its conflict of law provisions.
+
+9. Contact Us
+If you have any questions or concerns regarding these Terms of Use, please reach out to us:
+* Email: andreyibragimov696@gmail.com
+By using the Piano Reader app, you acknowledge that you have read, understood, and agree to be bound by these Terms of Use.
