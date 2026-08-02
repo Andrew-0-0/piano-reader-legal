@@ -22,13 +22,13 @@ You explicitly agree not to:
 
 Provided Content
 
-Any built-in sheet music, public domain arrangements, or default library items provided within the App are for your personal practice and reference. While we strive for accuracy, we do not guarantee that sheet music or digital transcriptions are error-free.
-User Content & Uploads
+The App may include built-in sheet music, exercises, demonstrations, or other educational content for personal practice and learning purposes. While we strive to ensure the accuracy of this content, we do not guarantee that it is free from errors, omissions, or formatting issues.
 
-If the App allows you to import, upload, or store your own music sheets, PDFs, or audio files:
-* Ownership: You retain ownership of any content you import into the App.
-* Responsibility: You are solely responsible for ensuring that you have the legal right or license to import, store, and view any sheet music or files within the App.
-* Copyright Compliance: You agree not to use the App to infringe upon any third-party copyrights or intellectual property rights.
+All content provided with the App remains the property of its respective copyright owners or licensors and is protected by applicable intellectual property laws. Except where expressly permitted, you may not copy, reproduce, distribute, modify, publish, or commercially exploit any content provided through the App.
+
+The App is intended solely as a learning and practice tool and does not transfer ownership or grant any rights to the underlying musical works, arrangements, or other copyrighted materials.
+
+If future versions of the App introduce features that allow users to import or upload their own content, additional terms governing such functionality may apply.
 
 3. Intellectual Property Rights
 
