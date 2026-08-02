@@ -44,6 +44,7 @@ We do not warrant that:
 * The App is free of viruses or other harmful components.
 
 5. Limitation of Liability
+
 To the fullest extent permitted by applicable law, in no event shall we be liable for any indirect, incidental, special, consequential, or punitive damages—including without limitation, loss of data, device malfunction, or business interruption—arising out of or in connection with your access to or use of (or inability to access or use) the App.
 
 6. Termination
