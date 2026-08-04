@@ -42,7 +42,7 @@ The App does not include advertising, analytics, or tracking technologies.
 
 5. Children’s Privacy
 
-Piano Reader is not directed to children under the age of 13.
+Piano Rider is not directed to children under the age of 13
 
 We do not knowingly collect personal information from children. Because the App does not collect personal information from any users, no personal information from children is collected or stored.
 
