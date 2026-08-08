@@ -10,7 +10,8 @@ Please read these Terms of Use ("Terms") carefully before using the Piano Rider 
 
 The Piano Reader app is designed to assist users in reading, viewing, and practicing sheet music. It is provided for personal, non-commercial use on iOS devices.
 You agree to use the App only in compliance with all applicable local, state, national, and international laws and regulations.
-Restrictions
+
+Restrictions.
 
 You explicitly agree not to:
 * Use the App for any illegal, unauthorized, or harmful purpose.
